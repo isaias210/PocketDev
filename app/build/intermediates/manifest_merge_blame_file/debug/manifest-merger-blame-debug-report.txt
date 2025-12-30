@@ -13,7 +13,7 @@
 11-->/data/data/com.termux/files/home/PocketDev/app/src/main/AndroidManifest.xml:3:22-64
 12
 13    <application
-13-->/data/data/com.termux/files/home/PocketDev/app/src/main/AndroidManifest.xml:5:5-20:19
+13-->/data/data/com.termux/files/home/PocketDev/app/src/main/AndroidManifest.xml:5:5-21:19
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:label="PocketDev"
